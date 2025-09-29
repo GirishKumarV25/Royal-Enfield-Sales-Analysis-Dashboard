@@ -1,5 +1,5 @@
 **Royal Enfield Sales Analysis Dashboard (Power BI)**
-This project showcases a data visualization dashboard built in Power BI to analyze bike sales performance. It provides insights into sales trends, model performance, regional distribution, dealer rankings, and customer preferences by color variant.
+This project showcases a data visualization dashboard built in Power BI to analyze bullet sales performance. It provides insights into sales trends, model performance, regional distribution, dealer rankings, and customer preferences by color variant.
 
 **Key Features :**
 KPI Cards → Total Units Sold, Top-Selling Model, Best Region, Dealer Count
