@@ -1,0 +1,34 @@
+Dashboard Layout Mockup
+🔹 Top Section (KPI Cards)
+
+Total Units Sold
+
+Top-Selling Model
+
+Total Dealers
+
+🔹 Sales Trend Over Time
+
+Line chart: Units Sold by Month (Year filter applied)
+
+Slicers: Year | Model | Region
+
+🔹 Model Performance
+
+Bar chart: Units Sold by Model
+
+Pie/Donut: Sales Share by Model
+
+🔹 Regional Insights
+
+Matrix: Region vs Model Sales
+
+🔹 Dealer & Color Insights
+
+Treemap/Bar chart: Sales by Color Variant
+
+In Power BI:
+
+Used slicers for Model, Region, and Year.
+
+Used card visuals for KPIs, line chart for time series, bar/pie for models/colors, and table for dealers.
