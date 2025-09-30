@@ -23,3 +23,7 @@ Supporting strategic decisions in sales & marketing
 
 ## 📸 Dashboard Preview
 ![Dashboard Preview](dashboard_preview.png)
+
+## 🔗 Author
+- Created by **[Girish Kumar V]**
+- 📧 Contact: [girishaquarius@gmail.com]
