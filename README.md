@@ -27,3 +27,5 @@ Supporting strategic decisions in sales & marketing
 ## 🔗 Author
 - Created by **[Girish Kumar V]**
 - 📧 Contact: [girishaquarius@gmail.com]
+---
+⭐ If you find this useful, consider giving this repo a star!
